@@ -1,3 +1,4 @@
+![Banner](images/screenshot-1.png)
 # Interactive 3D Solar System Simulation
 
 A computer graphics final project built with Processing P3D.
